@@ -1,2 +1,2 @@
 # CGPA-Calculator
-calculate your CGPA based on your marks 
+calculate your CGPA based on your sgpa
